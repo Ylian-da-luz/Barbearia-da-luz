@@ -1,3 +1,3 @@
-<h1>Barbearia DaLuz</h1>
+# Barbearia DaLuz
 
 > Status do projeto: Concluído! 
