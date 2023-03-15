@@ -1,1 +1,3 @@
-Site da Barbeari daLuz usando Html, Css e JavaScript.
+<h1>Barbearia DaLuz</h1>
+
+> Status do projeto: Concluído! 
